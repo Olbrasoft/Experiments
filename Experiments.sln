@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Experiments.Web.MVC", "Experiments.Web.MVC\Experiments.Web.MVC.csproj", "{C719FB51-7CE5-43C1-8B5B-E230BDBC2BAE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UploadedFiles", "UploadedFiles", "{EE59E20A-B2D2-4317-B11D-34DA7757FC77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
